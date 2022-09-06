@@ -10,3 +10,4 @@ var hashTable_1 = require("./hashTable");
     assert_1.strict.equal(hashTable.get("age"), "30");
     console.log("HashTable test passed successfully!");
 })();
+//# sourceMappingURL=hashTable.spec.js.map
